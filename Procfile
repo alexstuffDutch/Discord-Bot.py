@@ -1,1 +1,1 @@
-python worker: DiscordBotya.py
+worker: python DiscordBotya.py
